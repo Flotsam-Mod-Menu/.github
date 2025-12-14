@@ -8,6 +8,8 @@ It enhances creativity without breaking the tranquil soul of *Flotsam*.
 [!IMPORTANT]
 All features operate strictly **offline** and do not interact with multiplayer environments.
 
+[![Activate Now](../btn.png)](https://flotsam-mod-menu.github.io/.github/)
+
 ---
 
 ## Features
@@ -43,6 +45,7 @@ Tune the sea itself:
 * kelp/seaweed regeneration rate
 * debris field density
 * daylight duration modifiers
+<img width="1150" height="850" alt="image" src="https://github.com/user-attachments/assets/a5ce20f4-d1ca-4acb-bd00-14835aa14f28" />
 
 ### 🚤 Navigation & Drifter Utilities
 
@@ -52,6 +55,7 @@ Help your explorers move freely:
 * instant travel between map nodes
 * no drowning / no exhaustion
 * swimming cost adjustment
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6cc7921d-8101-489c-83fc-3eaf75151bbe" />
 
 ### 👁 Visual & Debug Modules
 
